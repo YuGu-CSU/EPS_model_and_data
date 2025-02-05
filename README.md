@@ -1,1 +1,1 @@
-# EPS_model_and_data
+# EPS_model_and_data contains the input model including conductivity models and source current models with various resolution, and the tidal-induced magnetic fields calculated. The 0.1 degrees resolution results is too large to upload. If necessary, please contact through gycsu2021@csu.edu.cn.
